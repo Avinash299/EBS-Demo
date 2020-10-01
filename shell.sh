@@ -1,6 +1,5 @@
 #shell script for factorial of a number
 #factorial using while loop
-
 echo "Enter a number"
 read num
 fact=1
