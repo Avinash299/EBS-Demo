@@ -1,2 +1,1 @@
-# EBS-Demo
-EBS-Demo-Repo
+# SFDXProject
